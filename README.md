@@ -1,16 +1,41 @@
-# React + Vite
+Nour Clinic – React JS Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive medical clinic website built using ReactJS, React Router, and Tailwind CSS
 
-Currently, two official plugins are available:
+ Project Description
+Nour Clinic is a frontend web application that allows users to:
+	•	Browse clinic services
+	•	View doctors and their specialties
+	•	Check detailed doctor profiles
+	•	Navigate through pages easily
+	•	Contact the clinic
+	•	Book appointments (UI only)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features 
 
-## React Compiler
+✔️ Frontend (ReactJS)
+	•	Built fully using ReactJS
+	•	Uses React Router for page navigation
+	•	Styled using Tailwind CSS
+	•	Contains more than 5 pages:
+	•	Home
+	•	Services
+	•	Doctors
+	•	Individual doctor pages (dynamic)
+	•	Contact
+	•	Appointments
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✔️ Responsive Design on:
+📱 Mobile – 🖥️ Desktop – 💻 Laptop
+Technologies Used
+	•	ReactJS
+	•	Vite
+	•	Tailwind CSS
+	•	React Router DOM
+	•	Git & GitHub
+	•	GitHub Pages (deployment)
+  
+  Deployment
+The project is hosted at:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 https://nourab789-web.github.io/clinic-nour/
